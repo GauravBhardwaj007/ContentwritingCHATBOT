@@ -4,7 +4,7 @@ Welcome to the repository for the live Contentwritingchatbot project!
 
 ## About
 
-This repository hosts live chabot and resources for the interactive chatbot. Chatbot is designed to provide assistance, answer questions, and engage with users in real-time. You can find resources in file named Resources in this repository,where data source and workplace editor can be found.
+This repository hosts live chabot and resources for the interactive chatbot. Chatbot is designed to provide assistance, answer questions, and engage with users in real-time. You can find resources in file named Resources in this repository,where data source and workplace editor can be found. Here the chatbot has data source as a blogging website for content writing information as knowledge base. If your prompt is out of that then it uses AI as a knowledge base to answer any of your queries.
 
 ## Live Chatbot
 
